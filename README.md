@@ -1,1 +1,1 @@
-# odin-recipes
+Basic readme setup for odinproject
